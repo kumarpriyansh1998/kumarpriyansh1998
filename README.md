@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kumarpriyansh
-- 👀 I’m interested in BlockChain,IOT,MySql and ofcourse CP :)
+- 👀 I’m interested in BlockChain,IOT,MySql and ofCourse CP :)
 - 🌱 I’m currently learning DataBase management,blockchain and IOT.
 - 💞️ I’m looking to collaborate on pretty much anything which i am capable of.
 - 📫 How to reach me : kumar.priyansh2018@vitstudent.ac.in
