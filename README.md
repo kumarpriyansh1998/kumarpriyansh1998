@@ -2,7 +2,7 @@
 - 👀 I’m interested in BlockChain,IOT,MySql and ofCourse CP :)
 - 🌱 I’m currently learning DataBase management,blockchain and IOT.
 - 💞️ I’m looking to collaborate on pretty much anything which i am capable of.
-- 📫 How to reach me : kumar.priyansh2018@vitstudent.ac.in
+- 📫 How to reach me :https://www.linkedin.com/in/kumar-priyansh-280180199/ 
 
 <!---
 kumarpriyansh1998/kumarpriyansh1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
