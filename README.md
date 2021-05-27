@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumarpriyansh
-- 👀 I’m interested in BlockChain,IOT,MySql and ofCourse CP :)
-- 🌱 I’m currently learning DataBase management,blockchain and IOT.
+- 👀 I’m interested in BlockChain,IOT,ML and ofCourse CP :)
+- 🌱 I’m currently learning blockchain and IOT.
 - 💞️ I’m looking to collaborate on pretty much anything which i am capable of.
 - 📫 How to reach me :https://www.linkedin.com/in/kumar-priyansh-280180199/ 
 
