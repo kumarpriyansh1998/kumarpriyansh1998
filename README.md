@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kumarpriyansh  
-- 👨‍🎓 I am graduated from VIT vellore in 2022 with 8.5+CGPA. I did 500+question on DSA and I can design highly available ,distributed ,fault-tolerance 
+- 👨‍🎓 I graduated from VIT vellore in 2022 with 8.5+CGPA. I did 500+question on DSA and I can design highly available ,distributed ,fault-tolerance 
      ,low latency system blah blah blah. 
 - 👀 I’m a data+backend engineer🤯
 - 🤕 I'm skilled with java+springboot with mongoDB , redis ,kafka ,RESTapi development and integration. I have solid experience with cloud data 
