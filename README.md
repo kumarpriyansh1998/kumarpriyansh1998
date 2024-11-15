@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @kumarpriyansh
-- 👀 I’m interested in BlockChain,IOT,ML and ofCourse CP :)
-- 🌱 I’m currently learning blockchain and IOT.
+- 👀 I’m a data+backend engineer🤯
+- 🤕 I'm skilled with java+springboot with mongoDB , redis ,kafka ,RESTapi development and integration. I have solid experience with cloud data 
+     engineering with Google Cloud ,Cloud SQL ,blob storage like gcs bucket ,pub/sub ,airflow orchestration ,dataform transformation and BigQuery data 
+     warehouse.
+- 🌱 I’m currently working on some projects related to backend+AI.
 - 💞️ I’m looking to collaborate on pretty much anything which i am capable of.
 - 📫 How to reach me :https://www.linkedin.com/in/kumar-priyansh-280180199/ 
 
